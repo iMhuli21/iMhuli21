@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iMhuli21
 - 👀 I’m interested in Software Development
-- 🌱 Currently learning react
+- 🌱 Currently learning typescript
 - 📫 How to reach me wayne.sadiki@gmail.com
 
 <!---
